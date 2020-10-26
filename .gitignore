@@ -1,1 +1,4 @@
-*.csv
+train.csv
+Test.csv
+appartement_scaled.csv
+appartement_prepared.csv
